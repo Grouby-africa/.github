@@ -1,5 +1,4 @@
-## Hi there 👋
-# Grouby
+# Hi from Grouby 👋 
 
 Welcome to Grouby, Africa's favorite group buying platform! 💯
 
