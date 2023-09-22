@@ -20,7 +20,7 @@ Our vision is to be the go-to platform for African university students when it c
 
 ## Get Started
 
-To start benefiting from the power of group buying, simply [sign up](https://grouby.pythonanywhere.com/register) on our website. Browse through the available deals, join existing groups, or create your own group to enjoy incredible savings on your favorite products.
+To start benefiting from the power of group buying, simply [sign up](https://grouby.com.ng/register) on our website. Browse through the available deals, join existing groups, or create your own group to enjoy incredible savings on your favorite products.
 
 Join us at Grouby and be a part of the movement to empower African university students with cost-effective solutions!
 
